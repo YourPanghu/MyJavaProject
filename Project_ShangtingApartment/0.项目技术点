@@ -1,0 +1,39 @@
+/*
+    项目聚焦于后端开发，全部采用主流的技术框架：
+    Spring、SpringMVC、SpringBoot、Mybatis、
+    Mybatis Plus、MySQL、Redis、Minio等。
+*/
+
+1.前端
+    {
+        移动端
+        后台管理系统
+    }框架Vue3
+
+2.前端服务器：
+    部署：Nginx{
+        1）作为静态资源的http服务器
+        2）作为后端接口的代理服务器
+    }
+
+3.后端
+    框架：SpringBoot
+    Web：Spring MVC
+    {
+        MyBatis
+        MyBatisPlus
+    }数据库访问
+    
+    阿里云短信服务
+
+4.存储服务
+    关系型数据库：MySQL
+    缓存：Redis
+    对象存储：MinIO
+        {
+            /*
+                对象存储是用于存储非结构化的数据存储架构，
+                他将一个数据单元成为一个对象，每个对象都包含数据本身、
+                元数据(描述对象信息的数据)和一个唯一的标识符(通常是一个URL地址)。
+            */
+        }
