@@ -32,6 +32,7 @@ public class Demo06HashMap {
 		
 		//7.输出
 		System.out.println(map);
+		sc.close();
 		
 	}
 }
